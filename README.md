@@ -32,20 +32,12 @@ Report: Comprehensive analysis and recommendations.
 README.md: Project documentation.
 ## Setup Instructions
 Clone the repository:
-bash
-Copy code
 git clone [repository URL]
 Navigate to the project directory:
-bash
-Copy code
 cd [repository folder]
 Install necessary dependencies:
-bash
-Copy code
 pip install -r requirements.txt
 Run the analysis script:
-bash
-Copy code
 python analysis.py
 ## Conclusion
 This project highlights key insights into user behavior and preferences, aiding upliance.ai in enhancing their offerings and user engagement.
